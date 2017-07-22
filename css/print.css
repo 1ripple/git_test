@@ -1,0 +1,12 @@
+body {
+  -webkit-print-color-adjust: exact;
+  background-color: #000 !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+#mainContainer {
+  display: none !important;
+}
+#modalContainer {
+  display: none !important;
+}
